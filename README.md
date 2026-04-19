@@ -76,13 +76,6 @@ It processes user input and predicts the emotional category using a FastText mod
 
 ---
 
-## 🌐 Deployment
-
-The model is deployed using Streamlit for interactive predictions.
-
-*(Add your Streamlit link here once deployed)*
-
----
 
 ## 🙏 Acknowledgment
 
