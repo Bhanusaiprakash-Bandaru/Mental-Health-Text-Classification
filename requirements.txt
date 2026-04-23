@@ -1,3 +1,0 @@
-streamlit
-fasttext-wheel
-requests
