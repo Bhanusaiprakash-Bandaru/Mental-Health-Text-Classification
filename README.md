@@ -6,6 +6,11 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
+# Live 
+https://huggingface.co/spaces/bhanusaiprakashbandaru/Mental_Health_Text_Classification
+
+---
+
 # 🧠 Mental Health Text Classification
 
 An NLP-based machine learning project that classifies user text into:
