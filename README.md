@@ -81,15 +81,6 @@ It processes user input and predicts the emotional category using a FastText mod
 
 ---
 
-
-## 🙏 Acknowledgment
-
-Grateful to my guide Nagaraju Ekkirala and mentor Mohammad Afroz, and to Innomatics Research Labs for continuously shaping my learning journey in AI and deep learning.  
-
-Special thanks to Raghu Ram Aduri, Sigilipelli Yeshwanth, and Kanav Bansal for their support and contributions.
-
----
-
 ## 📌 Conclusion
 
 This project demonstrates a practical NLP application using machine learning, highlighting real-world challenges like ambiguous data, overlapping language patterns, and model limitations.
